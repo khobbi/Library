@@ -1,0 +1,6 @@
+713fd6 main blue
+wave blue f2eefb
+founded 393939
+old price d0ced5
+footer text f4f4f4
+footer color 252525
